@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FormFatura/1.0.0": {
+        "dependencies": {
+          "FaturaDuzenleme": "1.0.0"
+        },
+        "runtime": {
+          "FormFatura.dll": {}
+        }
+      },
+      "FaturaDuzenleme/1.0.0": {
+        "runtime": {
+          "FaturaDuzenleme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormFatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FaturaDuzenleme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

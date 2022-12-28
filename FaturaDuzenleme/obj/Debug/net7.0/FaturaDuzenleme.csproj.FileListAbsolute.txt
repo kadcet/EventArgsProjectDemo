@@ -1,0 +1,12 @@
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\bin\Debug\net7.0\FaturaDuzenleme.deps.json
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\bin\Debug\net7.0\FaturaDuzenleme.dll
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\bin\Debug\net7.0\FaturaDuzenleme.pdb
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.AssemblyInfoInputs.cache
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.AssemblyInfo.cs
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.dll
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\refint\FaturaDuzenleme.dll
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\FaturaDuzenleme.pdb
+C:\Users\Kadir\source\repos\Coder\CodeOfficeProject\FaturaDuzenleme\obj\Debug\net7.0\ref\FaturaDuzenleme.dll
